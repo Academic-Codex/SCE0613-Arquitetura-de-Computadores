@@ -1,0 +1,12 @@
+REPO_TAGLINE: Computer architecture • hardware • performance
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SCE0613-Arquitetura-de-Computadores
+
+BG_1: "#312E2B"
+BG_2: "#44403C"
+TEXT_MAIN: "#FAFAF9"
+TEXT_MUTED: "#E7E5E4"
+ACCENT: "#FACC15"
+CARD_RADIUS: "18"
