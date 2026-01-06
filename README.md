@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SCE0613-Arquitetura-de-Computadores">
-    <img src=".github/readme/hero.svg?v=2026-01-06T02:57:28.506340Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T14:26:54.774543Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
