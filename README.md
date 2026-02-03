@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SCE0613-Arquitetura-de-Computadores">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:15.380732Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SCE0613-Arquitetura-de-Computadores?utm_source=SCE0613-Arquitetura-de-Computadores&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:17.302808Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
